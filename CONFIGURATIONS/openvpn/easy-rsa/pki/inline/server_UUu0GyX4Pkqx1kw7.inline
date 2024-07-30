@@ -1,0 +1,85 @@
+# server: server_UUu0GyX4Pkqx1kw7
+
+<cert>
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            3c:a3:9b:78:e3:29:d9:f3:fc:ca:09:60:91:60:61:d2
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=cn_BhsPg4fYoi0LEihH
+        Validity
+            Not Before: Jul 30 11:12:33 2024 GMT
+            Not After : Jul 28 11:12:33 2034 GMT
+        Subject: CN=server_UUu0GyX4Pkqx1kw7
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:1b:23:ce:54:22:77:e5:18:b3:e9:67:db:9e:1f:
+                    94:a8:5d:ce:19:f8:08:aa:e6:75:fd:97:9a:8d:31:
+                    1a:59:8d:fa:87:3d:3e:9f:00:c0:7b:f9:d0:7d:69:
+                    b8:11:ce:4b:9e:e7:ff:a2:ea:6f:ca:b4:8a:44:c8:
+                    37:61:bc:1a:2e
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                50:FE:11:CB:C0:20:F6:8B:B9:D8:03:53:0A:51:D7:CD:E5:A9:94:D6
+            X509v3 Authority Key Identifier: 
+                keyid:48:64:E8:69:71:59:A7:BF:8F:90:8B:2A:CF:EB:A8:86:49:A6:2C:26
+                DirName:/CN=cn_BhsPg4fYoi0LEihH
+                serial:74:EB:67:11:6B:00:16:55:75:DC:ED:16:08:32:16:B7:FC:61:5B:2E
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server_UUu0GyX4Pkqx1kw7
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:45:02:20:25:e6:a4:6e:7b:f4:80:e0:4e:9a:f9:92:b7:20:
+        93:4f:a9:51:3d:67:be:d8:dc:38:c1:6b:7e:db:15:41:20:e2:
+        02:21:00:df:4e:b9:5f:85:d0:ab:49:de:fc:9e:44:1e:56:21:
+        f4:06:02:bc:72:e9:5a:ca:e0:4e:ae:65:9c:91:d5:0d:03
+-----BEGIN CERTIFICATE-----
+MIICDTCCAbOgAwIBAgIQPKObeOMp2fP8yglgkWBh0jAKBggqhkjOPQQDAjAeMRww
+GgYDVQQDDBNjbl9CaHNQZzRmWW9pMExFaWhIMB4XDTI0MDczMDExMTIzM1oXDTM0
+MDcyODExMTIzM1owIjEgMB4GA1UEAwwXc2VydmVyX1VVdTBHeVg0UGtxeDFrdzcw
+WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQbI85UInflGLPpZ9ueH5SoXc4Z+Aiq
+5nX9l5qNMRpZjfqHPT6fAMB7+dB9abgRzkue5/+i6m/KtIpEyDdhvBouo4HOMIHL
+MAkGA1UdEwQCMAAwHQYDVR0OBBYEFFD+EcvAIPaLudgDUwpR183lqZTWMFkGA1Ud
+IwRSMFCAFEhk6GlxWae/j5CLKs/rqIZJpiwmoSKkIDAeMRwwGgYDVQQDDBNjbl9C
+aHNQZzRmWW9pMExFaWhIghR062cRawAWVXXc7RYIMha3/GFbLjATBgNVHSUEDDAK
+BggrBgEFBQcDATALBgNVHQ8EBAMCBaAwIgYDVR0RBBswGYIXc2VydmVyX1VVdTBH
+eVg0UGtxeDFrdzcwCgYIKoZIzj0EAwIDSAAwRQIgJeakbnv0gOBOmvmStyCTT6lR
+PWe+2Nw4wWt+2xVBIOICIQDfTrlfhdCrSd78nkQeViH0BgK8culayuBOrmWckdUN
+Aw==
+-----END CERTIFICATE-----
+</cert>
+
+<key>
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgntH8hOMMBoR2pd8W
+vjmb55pydX1MgiuLYkW5B41TudWhRANCAAQbI85UInflGLPpZ9ueH5SoXc4Z+Aiq
+5nX9l5qNMRpZjfqHPT6fAMB7+dB9abgRzkue5/+i6m/KtIpEyDdhvBou
+-----END PRIVATE KEY-----
+</key>
+
+<ca>
+-----BEGIN CERTIFICATE-----
+MIIB1zCCAX2gAwIBAgIUdOtnEWsAFlV13O0WCDIWt/xhWy4wCgYIKoZIzj0EAwIw
+HjEcMBoGA1UEAwwTY25fQmhzUGc0ZllvaTBMRWloSDAeFw0yNDA3MzAxMTEyMzNa
+Fw0zNDA3MjgxMTEyMzNaMB4xHDAaBgNVBAMME2NuX0Joc1BnNGZZb2kwTEVpaEgw
+WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASXdfUmcKdhKlag/KnCfoj+PIHKzHaL
+NOgrdkIVdO/GTQK48W0w4kjHmUz9PfNUr7x5p8q96sCslNsqlBr2b4TZo4GYMIGV
+MAwGA1UdEwQFMAMBAf8wHQYDVR0OBBYEFEhk6GlxWae/j5CLKs/rqIZJpiwmMFkG
+A1UdIwRSMFCAFEhk6GlxWae/j5CLKs/rqIZJpiwmoSKkIDAeMRwwGgYDVQQDDBNj
+bl9CaHNQZzRmWW9pMExFaWhIghR062cRawAWVXXc7RYIMha3/GFbLjALBgNVHQ8E
+BAMCAQYwCgYIKoZIzj0EAwIDSAAwRQIgAy/ME8lw9m4uPOlM8Z4EfV47UlyPa+yj
+a41cGjMiYxYCIQDrR3FISu/98Ks80UEVaVsbDh/27LhcvoS4fimtg1H1xw==
+-----END CERTIFICATE-----
+</ca>
+
